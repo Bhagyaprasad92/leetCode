@@ -10,7 +10,6 @@ class Solution {
             for(char c : words[i].toCharArray()) {
                 wfreq.put(c, wfreq.getOrDefault(c, 0)+1);
             }
-            //checking
             boolean isValid = true;
             for(char c : wfreq.keySet()) {
                 if(wfreq.get(c) > cfreq.getOrDefault(c, 0)) {
