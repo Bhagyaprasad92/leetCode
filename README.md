@@ -6,6 +6,7 @@
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Bhagyaprasad92/leetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Greedy
 |  |
 | ------- |
