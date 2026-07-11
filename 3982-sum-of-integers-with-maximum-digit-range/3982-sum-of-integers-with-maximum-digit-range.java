@@ -2,13 +2,13 @@ class Solution {
     public int maxDigitRange(int[] nums) {
         int maxRange = -1;
         int sum = 0;
-        for(int num : nums) {
-            int curr = getDigitRange(num);
+        for(int n : nums) {
+            int curr = getDigitRange(n);
             if(curr > maxRange) {
                 maxRange = curr;
-                sum = num;
+                sum = n;
             } else if(curr == maxRange) {
-                sum += num;
+                sum += n;
             }
         }
         return sum;
