@@ -10,6 +10,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Bhagyaprasad92/leetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhagyaprasad92/leetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -24,6 +25,7 @@
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -79,4 +81,8 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Bhagyaprasad92/leetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhagyaprasad92/leetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
