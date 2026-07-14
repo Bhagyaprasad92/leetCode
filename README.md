@@ -72,4 +72,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Bhagyaprasad92/leetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
