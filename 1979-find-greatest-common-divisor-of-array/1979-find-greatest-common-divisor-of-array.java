@@ -1,11 +1,9 @@
 class Solution {
     private int GCD(int min, int max) {
-        while(max != 0) {
-            int temp = max;
-            max = min % max;
-            min = temp;
+        if(max == 0) {
+            return min;
         }
-        return min;
+        return GCD(max, min % max);
     }
     public int findGCD(int[] nums) {
         int min = nums[0], max = 0;
