@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Bhagyaprasad92/leetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bhagyaprasad92/leetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -36,6 +38,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Bhagyaprasad92/leetCode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -46,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhagyaprasad92/leetCode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Bhagyaprasad92/leetCode/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
@@ -116,6 +120,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
