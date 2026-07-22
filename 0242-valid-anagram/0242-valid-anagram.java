@@ -10,13 +10,13 @@ class Solution {
         for (char c : t.toCharArray()) {
             tmap.put(c, tmap.getOrDefault(c, 0) + 1);
         }
-        for (char key : smap.keySet()) {
-            if (!smap.get(key).equals(tmap.get(key)))
-                return false;
+        // for (char key : smap.keySet()) {
+        //     if (!smap.get(key).equals(tmap.get(key)))
+        //         return false;
 
-            if ((int) smap.get(key) != (int) tmap.get(key))
-                return false;
-        }
-        return true;
+        //     if ((int) smap.get(key) != (int) tmap.get(key))
+        //         return false;
+        // }
+        return (!smap.equals(tmap)) ? false : true;
     }
 }
