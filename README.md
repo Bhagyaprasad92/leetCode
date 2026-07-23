@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/Bhagyaprasad92/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Bhagyaprasad92/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
@@ -34,6 +35,7 @@
 | [0049-group-anagrams](https://github.com/Bhagyaprasad92/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Bhagyaprasad92/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhagyaprasad92/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
@@ -56,6 +58,7 @@
 | [0001-two-sum](https://github.com/Bhagyaprasad92/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Bhagyaprasad92/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Bhagyaprasad92/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhagyaprasad92/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Bhagyaprasad92/leetCode/tree/master/0383-ransom-note) |
