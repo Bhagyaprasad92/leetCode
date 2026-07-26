@@ -27,18 +27,15 @@ class Solution {
             num = (num * (n - i + 1)) % MOD;
             den = (den * i) % MOD;
         }
-        return (num * modInv(den, MOD)) % MOD;
-    }
-
-    private long modInv(long base, int m){
-        int exp = m - 2;
+        long base = den;
+        int exp = MOD - 2;
         long res = 1;
-        base = base % m;
+        base = base % MOD;
         while(exp > 0) {
-            if((exp & 1) == 1) res = (res * base) % m;
-            base = (base * base) % m;
+            if((exp & 1) == 1) res = (res * base) % MOD;
+            base = (base * base) % MOD;
             exp >>= 1;
         }
-        return res;
+        return (num * res) % MOD;
     }
 }
