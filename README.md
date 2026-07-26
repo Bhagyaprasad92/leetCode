@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Bhagyaprasad92/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/Bhagyaprasad92/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhagyaprasad92/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Bhagyaprasad92/leetCode/tree/main/0050-powx-n/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhagyaprasad92/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
