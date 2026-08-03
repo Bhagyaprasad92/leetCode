@@ -18,6 +18,7 @@
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0706-design-hashmap/) | Easy |
+| [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Bhagyaprasad92/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bhagyaprasad92/leetCode/tree/master/0010-regular-expression-matching) |
+| [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -201,4 +204,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
