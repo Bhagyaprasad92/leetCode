@@ -137,6 +137,7 @@
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhagyaprasad92/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
