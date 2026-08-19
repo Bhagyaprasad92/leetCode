@@ -152,6 +152,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Bhagyaprasad92/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Bhagyaprasad92/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
