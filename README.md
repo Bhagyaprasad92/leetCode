@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bhagyaprasad92/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
@@ -43,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagyaprasad92/leetCode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
@@ -55,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/Bhagyaprasad92/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -131,6 +134,7 @@
 | [0344-reverse-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +150,7 @@
 | [0278-first-bad-version](https://github.com/Bhagyaprasad92/leetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Database
