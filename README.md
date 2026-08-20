@@ -138,6 +138,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhagyaprasad92/leetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Bhagyaprasad92/leetCode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -164,6 +165,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Bhagyaprasad92/leetCode/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/Bhagyaprasad92/leetCode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Bhagyaprasad92/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
@@ -254,4 +256,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Bhagyaprasad92/leetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Bhagyaprasad92/leetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
