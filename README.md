@@ -142,6 +142,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0278-first-bad-version](https://github.com/Bhagyaprasad92/leetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -251,5 +252,6 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/Bhagyaprasad92/leetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
