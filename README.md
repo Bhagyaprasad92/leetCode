@@ -143,6 +143,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Database
@@ -247,4 +248,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
