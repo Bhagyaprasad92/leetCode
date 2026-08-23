@@ -29,6 +29,7 @@
 | [0706-design-hashmap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Bhagyaprasad92/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -63,6 +64,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -142,6 +144,7 @@
 | [0541-reverse-string-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bhagyaprasad92/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
