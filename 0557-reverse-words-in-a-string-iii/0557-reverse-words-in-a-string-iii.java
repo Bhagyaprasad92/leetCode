@@ -20,14 +20,6 @@ class Solution {
         for(int c = i; c < j; c++) {
             str.append(s.charAt(c));
         }
-        int m = 0, n = str.length() - 1;
-        while(m <= n) {
-            char c = str.charAt(m);
-            str.setCharAt(m, str.charAt(n));
-            str.setCharAt(n, c);
-            m++;
-            n--;
-        }
-        return str.toString();
+        return str.reverse().toString();
     }
 }
