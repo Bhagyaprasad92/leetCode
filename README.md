@@ -126,6 +126,7 @@
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
