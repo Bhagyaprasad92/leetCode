@@ -45,6 +45,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bhagyaprasad92/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
