@@ -45,6 +45,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
@@ -208,6 +209,7 @@
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhagyaprasad92/leetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhagyaprasad92/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Bhagyaprasad92/leetCode/tree/main/3945-digit-frequency-score/) | Easy |
