@@ -7,6 +7,6 @@ class Solution {
             sSum += (d * d);
             n /= 10;
         }
-        return (sSum - dSum) >= 50;
+        return sSum - dSum >= 50;
     }
 }
