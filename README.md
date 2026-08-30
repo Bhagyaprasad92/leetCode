@@ -211,6 +211,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhagyaprasad92/leetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhagyaprasad92/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Bhagyaprasad92/leetCode/tree/main/3945-digit-frequency-score/) | Easy |
+| [3959-check-good-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/3959-check-good-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@
 | [1929-concatenation-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3959-check-good-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/3959-check-good-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
