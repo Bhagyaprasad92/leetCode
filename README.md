@@ -130,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Bhagyaprasad92/leetCode/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/Bhagyaprasad92/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -138,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bhagyaprasad92/leetCode/tree/master/0010-regular-expression-matching) |
+| [0338-counting-bits](https://github.com/Bhagyaprasad92/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
