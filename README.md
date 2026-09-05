@@ -27,6 +27,7 @@
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0706-design-hashmap/) | Easy |
+| [0724-find-pivot-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhagyaprasad92/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -285,6 +286,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhagyaprasad92/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
