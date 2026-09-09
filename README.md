@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Bhagyaprasad92/leetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bhagyaprasad92/leetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Bhagyaprasad92/leetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhagyaprasad92/leetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -65,6 +66,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Bhagyaprasad92/leetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhagyaprasad92/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
@@ -160,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagyaprasad92/leetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Bhagyaprasad92/leetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
