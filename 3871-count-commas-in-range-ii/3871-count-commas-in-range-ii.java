@@ -1,0 +1,10 @@
+class Solution {
+    public long countCommas(long n) {
+        long totalCommas = 0, threshold = 1000;
+        while (n >= threshold) {
+            totalCommas += (n - threshold) + 1;
+            threshold *= 1000;
+        }
+        return totalCommas;
+    }
+}
