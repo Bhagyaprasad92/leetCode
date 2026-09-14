@@ -218,6 +218,7 @@
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhagyaprasad92/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
@@ -375,4 +376,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
