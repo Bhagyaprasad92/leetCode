@@ -51,6 +51,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -208,6 +209,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyaprasad92/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhagyaprasad92/leetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhagyaprasad92/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -256,6 +259,7 @@
 | [1929-concatenation-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3959-check-good-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/3959-check-good-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
