@@ -57,6 +57,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhagyaprasad92/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhagyaprasad92/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/3959-check-good-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
