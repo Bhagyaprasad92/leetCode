@@ -223,6 +223,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyaprasad92/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
