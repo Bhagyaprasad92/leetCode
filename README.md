@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Bhagyaprasad92/leetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Bhagyaprasad92/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
@@ -168,6 +169,7 @@
 | [0011-container-with-most-water](https://github.com/Bhagyaprasad92/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhagyaprasad92/leetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Bhagyaprasad92/leetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0541-reverse-string-ii/) | Easy |
