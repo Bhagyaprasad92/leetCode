@@ -114,6 +114,7 @@
 | [0645-set-mismatch](https://github.com/Bhagyaprasad92/leetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0706-design-hashmap/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Bhagyaprasad92/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bhagyaprasad92/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -135,6 +136,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Bhagyaprasad92/leetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Bhagyaprasad92/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhagyaprasad92/leetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
