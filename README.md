@@ -148,6 +148,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bhagyaprasad92/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhagyaprasad92/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Bhagyaprasad92/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
@@ -277,6 +278,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhagyaprasad92/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/3959-check-good-integer/) | Easy |
 ## Divide and Conquer
