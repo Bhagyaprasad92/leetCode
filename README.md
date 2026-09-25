@@ -49,6 +49,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -102,6 +103,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bhagyaprasad92/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2404-most-frequent-even-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
@@ -122,6 +124,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bhagyaprasad92/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2404-most-frequent-even-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
