@@ -149,6 +149,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhagyaprasad92/leetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhagyaprasad92/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -377,6 +378,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Bhagyaprasad92/leetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Bhagyaprasad92/leetCode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bhagyaprasad92/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -421,6 +423,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
