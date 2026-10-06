@@ -240,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Bhagyaprasad92/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Bhagyaprasad92/leetCode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Bhagyaprasad92/leetCode/tree/main/0231-power-of-two/) | Easy |
