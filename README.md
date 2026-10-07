@@ -43,6 +43,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Bhagyaprasad92/leetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/Bhagyaprasad92/leetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhagyaprasad92/leetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -288,6 +289,7 @@
 | [0054-spiral-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/Bhagyaprasad92/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Bhagyaprasad92/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Bhagyaprasad92/leetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
