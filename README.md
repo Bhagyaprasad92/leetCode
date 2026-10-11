@@ -54,6 +54,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -460,4 +461,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
