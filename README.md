@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagyaprasad92/leetCode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
@@ -149,6 +150,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Bhagyaprasad92/leetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Bhagyaprasad92/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -179,6 +181,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bhagyaprasad92/leetCode/tree/master/0010-regular-expression-matching) |
 | [0338-counting-bits](https://github.com/Bhagyaprasad92/leetCode/tree/main/0338-counting-bits/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -387,6 +390,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyaprasad92/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Bhagyaprasad92/leetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Bhagyaprasad92/leetCode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -433,6 +437,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
