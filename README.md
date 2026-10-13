@@ -63,6 +63,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Bhagyaprasad92/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -75,6 +76,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Bhagyaprasad92/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Bhagyaprasad92/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
