@@ -32,6 +32,7 @@
 | [0705-design-hashset](https://github.com/Bhagyaprasad92/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Bhagyaprasad92/leetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0848-shifting-letters](https://github.com/Bhagyaprasad92/leetCode/tree/main/0848-shifting-letters/) | Medium |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhagyaprasad92/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -159,6 +160,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Bhagyaprasad92/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0848-shifting-letters](https://github.com/Bhagyaprasad92/leetCode/tree/main/0848-shifting-letters/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Bhagyaprasad92/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhagyaprasad92/leetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -358,6 +360,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhagyaprasad92/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0848-shifting-letters](https://github.com/Bhagyaprasad92/leetCode/tree/main/0848-shifting-letters/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
