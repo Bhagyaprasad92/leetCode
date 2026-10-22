@@ -186,6 +186,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@
 | [0231-power-of-two](https://github.com/Bhagyaprasad92/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhagyaprasad92/leetCode/tree/main/0342-power-of-four/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyaprasad92/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhagyaprasad92/leetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -310,6 +313,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhagyaprasad92/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/3959-check-good-integer/) | Easy |
