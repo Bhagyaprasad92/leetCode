@@ -247,6 +247,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Bhagyaprasad92/leetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhagyaprasad92/leetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1193-monthly-transactions-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhagyaprasad92/leetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
