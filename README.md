@@ -249,6 +249,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhagyaprasad92/leetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/Bhagyaprasad92/leetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhagyaprasad92/leetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
