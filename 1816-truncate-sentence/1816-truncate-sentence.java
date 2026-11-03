@@ -1,11 +1,10 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        String[] words = s.split(" ");
-        StringBuilder sb = new StringBuilder();
-        for(int i = 0; i < k; i++) {
-            sb.append(words[i]);
-            if(i < k - 1) sb.append(" ");
+        int spaces = 0;
+        for(int i = 0; i < s.length(); i++) {
+            if(s.charAt(i) == ' ') spaces++;
+            if(spaces == k) return s.substring(0, i);
         }
-        return sb.toString();
+        return s;
     }
 }
