@@ -284,6 +284,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyaprasad92/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -307,6 +308,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyaprasad92/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhagyaprasad92/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
@@ -457,10 +459,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +500,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
+| [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
