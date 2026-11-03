@@ -55,6 +55,7 @@
 | [2404-most-frequent-even-element](https://github.com/Bhagyaprasad92/leetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Bhagyaprasad92/leetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -312,6 +313,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Bhagyaprasad92/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Bhagyaprasad92/leetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
