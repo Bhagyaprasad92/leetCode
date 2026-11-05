@@ -41,6 +41,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhagyaprasad92/leetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Bhagyaprasad92/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Bhagyaprasad92/leetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -102,6 +103,7 @@
 | [0905-sort-array-by-parity](https://github.com/Bhagyaprasad92/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhagyaprasad92/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -225,6 +227,7 @@
 | [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhagyaprasad92/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhagyaprasad92/leetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Bhagyaprasad92/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhagyaprasad92/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -247,6 +250,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Bhagyaprasad92/leetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyaprasad92/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyaprasad92/leetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Database
 | Problem Name | Difficulty |
