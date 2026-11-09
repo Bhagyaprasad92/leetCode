@@ -287,6 +287,7 @@
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [1952-three-divisors](https://github.com/Bhagyaprasad92/leetCode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Bhagyaprasad92/leetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -314,6 +315,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Bhagyaprasad92/leetCode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Bhagyaprasad92/leetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -508,6 +510,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Bhagyaprasad92/leetCode/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Bhagyaprasad92/leetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Indexed Tree
@@ -522,8 +525,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Bhagyaprasad92/leetCode/tree/main/1952-three-divisors/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Bhagyaprasad92/leetCode/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
