@@ -199,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bhagyaprasad92/leetCode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/Bhagyaprasad92/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/Bhagyaprasad92/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Bhagyaprasad92/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Bhagyaprasad92/leetCode/tree/main/0877-stone-game/) | Medium |
@@ -277,6 +278,7 @@
 | [0009-palindrome-number](https://github.com/Bhagyaprasad92/leetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Bhagyaprasad92/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Bhagyaprasad92/leetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Bhagyaprasad92/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/Bhagyaprasad92/leetCode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Bhagyaprasad92/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Bhagyaprasad92/leetCode/tree/main/0326-power-of-three/) | Easy |
@@ -536,4 +538,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Bhagyaprasad92/leetCode/tree/main/1952-three-divisors/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhagyaprasad92/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
