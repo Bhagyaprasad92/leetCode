@@ -66,6 +66,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bhagyaprasad92/leetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bhagyaprasad92/leetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhagyaprasad92/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhagyaprasad92/leetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -399,6 +400,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Bhagyaprasad92/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Bhagyaprasad92/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bhagyaprasad92/leetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Bhagyaprasad92/leetCode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Bhagyaprasad92/leetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -542,4 +544,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bhagyaprasad92/leetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bhagyaprasad92/leetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
